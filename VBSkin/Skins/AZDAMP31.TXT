@@ -1,0 +1,16 @@
+                            AZD-AMP3 WinAMP skin
+-----------------------------------------------------------------------------
+      This is my fifth skin . I redesigned Sonicated skin display, changed
+  colors of interface to match colors of speakers /made for AZD-Sensor/
+  and added my "Sensors" position slider. Windows buttons are completely new.
+  All other buttons are corrected, added little glow to led's etc...
+  
+      So, the new remix was done. I think that it's cool and very functional,
+  so I decided to put it on Internet.
+
+  Thanks to YUG Creator of Sonicated display.
+
+  WinAMP Skins Homepage http://members.tripod.com/~Djakovic/index.html
+  Old Homepage          http://www.beotel.yu/~azd/index.html
+
+  AZD - Architect Zoran Djakovic
